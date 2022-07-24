@@ -7,4 +7,7 @@
 - cyclic rotation
 - odd occurrences in array
 - frog jump
-- perm_missing_elem
+- perm missing elem
+
+2022.07.25
+- tape equilibrium
