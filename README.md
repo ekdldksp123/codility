@@ -12,3 +12,4 @@
 2022.07.25
 - tape equilibrium
 - frog river one
+- perm check
