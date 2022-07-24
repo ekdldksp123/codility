@@ -7,3 +7,4 @@
 - cyclic rotation
 - odd occurrences in array
 - frog jump
+- perm_missing_elem
