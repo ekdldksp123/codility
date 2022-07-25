@@ -20,3 +20,4 @@
 
 2022.07.26
 - min avg two slice
+- genomic range query
