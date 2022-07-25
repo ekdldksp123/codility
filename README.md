@@ -17,3 +17,6 @@
 - missing integer
 - passing cars
 - count div
+
+2022.07.26
+- min avg two slice
