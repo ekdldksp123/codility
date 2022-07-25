@@ -15,3 +15,4 @@
 - perm check
 - max counters(*) 이런 문제 무섭. 또 풀어보기.
 - missing integer
+- passing cars
