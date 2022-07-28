@@ -27,3 +27,4 @@
 
 2022.07.28
 - number of discIntersections
+- brackets (*) 자주 나오는 문제 
