@@ -21,3 +21,9 @@
 2022.07.26
 - min avg two slice
 - genomic range query
+- distinct
+- triangle
+- max product of three
+
+2022.07.28
+- number of discIntersections
