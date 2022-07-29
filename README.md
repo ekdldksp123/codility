@@ -32,3 +32,6 @@
 - nesting
 - stone wall
 - dominator
+
+2022.07.29
+- equi leader
